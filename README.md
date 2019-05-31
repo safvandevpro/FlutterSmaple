@@ -1,2 +1,2 @@
-# Safvanp19
+# FlutterSample
 Android,IOS and Windows
